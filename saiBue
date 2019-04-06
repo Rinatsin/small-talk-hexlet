@@ -1,4 +1,4 @@
 #!/usr/bin/env php
 <?php
 
-print_r("Goodbye ny love, goodbye!!!\n");
+print_r("Goodbye my love, Goodbye!!!\n");
